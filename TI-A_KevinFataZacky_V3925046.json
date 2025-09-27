@@ -1,0 +1,788 @@
+{
+  "cctv_real_time": [
+    {
+      "id": 1,
+      "lokasi": "CCTV Gedung DPR - Jl. Merdeka Barat",
+      "status": "Massa mulai berkumpul, lalu lintas tersendat",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:00"
+    },
+    {
+      "id": 2,
+      "lokasi": "CCTV RS Cipto Mangunkusumo - Jl. Diponegoro",
+      "status": "Kerumunan mahasiswa melakukan orasi",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:10"
+    },
+    {
+      "id": 3,
+      "lokasi": "CCTV Plaza Semanggi - Jl. Sudirman",
+      "status": "Lalu lintas padat akibat demo",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 08:20"
+    },
+    {
+      "id": 4,
+      "lokasi": "CCTV Bundaran HI - Jl. MH Thamrin",
+      "status": "Massa melakukan longmarch menuju DPR",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:30"
+    },
+    {
+      "id": 5,
+      "lokasi": "CCTV Terminal Senen - Jl. Stasiun Senen",
+      "status": "Arus lalu lintas dialihkan",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:40"
+    },
+    {
+      "id": 6,
+      "lokasi": "CCTV Universitas Indonesia - Depok",
+      "status": "Massa berkumpul di kampus, bersiap menuju Jakarta",
+      "wilayah": "Depok",
+      "waktu": "2025-09-16 08:50"
+    },
+    {
+      "id": 7,
+      "lokasi": "CCTV Jl. Gatot Subroto depan MPR/DPR",
+      "status": "Massa mulai memadati jalan",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:00"
+    },
+    {
+      "id": 8,
+      "lokasi": "CCTV Flyover Slipi",
+      "status": "Kendaraan dialihkan, kepadatan meningkat",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 09:10"
+    },
+    {
+      "id": 9,
+      "lokasi": "CCTV Stasiun Gambir",
+      "status": "Penumpang tertahan akibat jalan sekitar macet",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:20"
+    },
+    {
+      "id": 10,
+      "lokasi": "CCTV Monas Selatan",
+      "status": "Massa mulai berkumpul untuk bergabung ke DPR",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:30"
+    },
+    {
+      "id": 11,
+      "lokasi": "CCTV Blok M - Jl. Iskandarsyah",
+      "status": "Mahasiswa bersiap menuju titik aksi",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 09:40"
+    },
+    {
+      "id": 12,
+      "lokasi": "CCTV Harmoni",
+      "status": "Kepadatan lalu lintas meningkat",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:50"
+    },
+    {
+      "id": 13,
+      "lokasi": "CCTV Rawamangun",
+      "status": "Massa mulai bergerak dari arah timur",
+      "wilayah": "Jakarta Timur",
+      "waktu": "2025-09-16 10:00"
+    },
+    {
+      "id": 14,
+      "lokasi": "CCTV Pancoran",
+      "status": "Lalu lintas tersendat akibat konvoi mahasiswa",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 10:10"
+    },
+    {
+      "id": 15,
+      "lokasi": "CCTV Senayan City",
+      "status": "Konsentrasi massa meningkat",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 10:20"
+    },
+    {
+      "id": 16,
+      "lokasi": "CCTV Kota Tua",
+      "status": "Situasi ramai lancar",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 10:30"
+    },
+    {
+      "id": 17,
+      "lokasi": "CCTV Kalibata",
+      "status": "Massa bergerak menuju DPR",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 10:40"
+    },
+    {
+      "id": 18,
+      "lokasi": "CCTV Senen",
+      "status": "Demo menyebabkan antrean panjang kendaraan",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 10:50"
+    },
+    {
+      "id": 19,
+      "lokasi": "CCTV Palmerah",
+      "status": "Massa semakin banyak",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 11:00"
+    },
+    {
+      "id": 20,
+      "lokasi": "CCTV Slipi Jaya",
+      "status": "Akses jalan ditutup sementara",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 11:10"
+    },
+    {
+      "id": 21,
+      "lokasi": "CCTV Pejompongan",
+      "status": "Massa mulai memblokir jalan",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 11:20"
+    },
+    {
+      "id": 22,
+      "lokasi": "CCTV Tugu Tani",
+      "status": "Massa bergerak menuju Monas",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 11:30"
+    },
+    {
+      "id": 23,
+      "lokasi": "CCTV Ragunan",
+      "status": "Mahasiswa bergerak dengan bus",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 11:40"
+    },
+    {
+      "id": 24,
+      "lokasi": "CCTV Cililitan",
+      "status": "Kendaraan tersendat karena demo",
+      "wilayah": "Jakarta Timur",
+      "waktu": "2025-09-16 11:50"
+    },
+    {
+      "id": 25,
+      "lokasi": "CCTV Kampus Trisakti",
+      "status": "Massa kampus bergabung aksi",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 12:00"
+    }
+  ],
+
+    "informasi_pemerintah": [
+    {
+      "id": 1,
+      "instansi": "Pemkot Jakarta",
+      "info": "Himbauan warga untuk menghindari area sekitar Gedung DPR",
+      "lokasi": "Jl. Merdeka Barat depan Gedung DPR",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 2,
+      "instansi": "Polda Metro Jaya",
+      "info": "Pengalihan arus lalu lintas dari Jl. Diponegoro ke arah Matraman",
+      "lokasi": "Jl. Diponegoro depan RS Cipto Mangunkusumo",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 3,
+      "instansi": "Dishub DKI Jakarta",
+      "info": "Penutupan jalan sementara di sekitar Bundaran HI",
+      "lokasi": "Jl. MH Thamrin Bundaran HI",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 4,
+      "instansi": "Satpol PP",
+      "info": "Pengamanan jalur aksi longmarch menuju DPR",
+      "lokasi": "Jl. Sudirman arah Senayan",
+      "wilayah": "Jakarta Selatan",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 5,
+      "instansi": "BPBD DKI Jakarta",
+      "info": "Siaga ambulans di sekitar Senen",
+      "lokasi": "Jl. Stasiun Senen",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 6,
+      "instansi": "Pemkot Jakarta",
+      "info": "Pembersihan jalan pasca aksi akan dilakukan malam ini",
+      "lokasi": "Jl. Gatot Subroto",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 7,
+      "instansi": "Polda Metro Jaya",
+      "info": "Rekayasa lalu lintas di kawasan Semanggi",
+      "lokasi": "Jl. Sudirman depan Plaza Semanggi",
+      "wilayah": "Jakarta Selatan",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 8,
+      "instansi": "Dishub DKI Jakarta",
+      "info": "Pengalihan arus kendaraan di kawasan Slipi",
+      "lokasi": "Flyover Slipi",
+      "wilayah": "Jakarta Barat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 9,
+      "instansi": "Satpol PP",
+      "info": "Penertiban pedagang kaki lima sekitar Gambir",
+      "lokasi": "Jl. Medan Merdeka Timur",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 10,
+      "instansi": "BPBD DKI Jakarta",
+      "info": "Siaga mobil pemadam di sekitar Monas",
+      "lokasi": "Monas Selatan",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 11,
+      "instansi": "Pemkot Jakarta Selatan",
+      "info": "Imbauan warga untuk menghindari area Blok M",
+      "lokasi": "Jl. Iskandarsyah",
+      "wilayah": "Jakarta Selatan",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 12,
+      "instansi": "Dishub DKI Jakarta",
+      "info": "Kepadatan lalu lintas dipantau di Harmoni",
+      "lokasi": "Jl. Hayam Wuruk",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 13,
+      "instansi": "Polda Metro Jaya",
+      "info": "Pengamanan massa di kawasan Rawamangun",
+      "lokasi": "Jl. Pemuda",
+      "wilayah": "Jakarta Timur",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 14,
+      "instansi": "Satpol PP",
+      "info": "Pemasangan barikade di kawasan Pancoran",
+      "lokasi": "Jl. Gatot Subroto Pancoran",
+      "wilayah": "Jakarta Selatan",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 15,
+      "instansi": "BPBD DKI Jakarta",
+      "info": "Tim medis siaga di Senayan City",
+      "lokasi": "Jl. Asia Afrika",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 16,
+      "instansi": "Pemkot Jakarta Barat",
+      "info": "Sterilisasi jalan sekitar Kota Tua",
+      "lokasi": "Jl. Pintu Besar Utara",
+      "wilayah": "Jakarta Barat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 17,
+      "instansi": "Polda Metro Jaya",
+      "info": "Pengamanan massa bergerak dari Kalibata",
+      "lokasi": "Jl. Raya Kalibata",
+      "wilayah": "Jakarta Selatan",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 18,
+      "instansi": "Dishub DKI Jakarta",
+      "info": "Pengaturan arus lalu lintas di Senen",
+      "lokasi": "Jl. Stasiun Senen",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 19,
+      "instansi": "Satpol PP",
+      "info": "Penutupan jalan sementara di Palmerah",
+      "lokasi": "Jl. Palmerah Barat",
+      "wilayah": "Jakarta Barat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 20,
+      "instansi": "BPBD DKI Jakarta",
+      "info": "Siaga posko darurat di Slipi Jaya",
+      "lokasi": "Jl. S. Parman",
+      "wilayah": "Jakarta Barat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 21,
+      "instansi": "Pemkot Jakarta Pusat",
+      "info": "Himbauan warga agar tidak melintas Pejompongan",
+      "lokasi": "Jl. Pejompongan",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 22,
+      "instansi": "Dishub DKI Jakarta",
+      "info": "Penutupan jalan menuju Tugu Tani",
+      "lokasi": "Jl. Menteng Raya",
+      "wilayah": "Jakarta Pusat",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 23,
+      "instansi": "Polda Metro Jaya",
+      "info": "Pengamanan massa bergerak dari Ragunan",
+      "lokasi": "Jl. Harsono RM",
+      "wilayah": "Jakarta Selatan",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 24,
+      "instansi": "Satpol PP",
+      "info": "Pengaturan lalu lintas di Cililitan",
+      "lokasi": "Jl. Cililitan Besar",
+      "wilayah": "Jakarta Timur",
+      "tanggal": "2025-09-16"
+    },
+    {
+      "id": 25,
+      "instansi": "BPBD DKI Jakarta",
+      "info": "Tim siaga di sekitar Kampus Trisakti",
+      "lokasi": "Jl. Kyai Tapa",
+      "wilayah": "Jakarta Barat",
+      "tanggal": "2025-09-16"
+    }
+  ],
+
+    "laporan_masyarakat": [
+    {
+      "id": 1,
+      "pelapor": "Andi Pratama",
+      "lokasi": "Jl. Merdeka Barat depan Gedung DPR - Jakarta Pusat",
+      "kejadian": "Massa mahasiswa mulai berkumpul untuk aksi demo menolak RUU",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:00"
+    },
+    {
+      "id": 2,
+      "pelapor": "Siti Aminah",
+      "lokasi": "Jl. Diponegoro depan RS Cipto Mangunkusumo - Jakarta Pusat",
+      "kejadian": "Massa melakukan orasi dengan pengeras suara",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:10"
+    },
+    {
+      "id": 3,
+      "pelapor": "Budi Santoso",
+      "lokasi": "Jl. Sudirman depan Plaza Semanggi - Jakarta Selatan",
+      "kejadian": "Jalanan macet total akibat demo",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 08:20"
+    },
+    {
+      "id": 4,
+      "pelapor": "Nurhayati",
+      "lokasi": "Jl. MH Thamrin Bundaran HI - Jakarta Pusat",
+      "kejadian": "Massa longmarch menuju DPR",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:30"
+    },
+    {
+      "id": 5,
+      "pelapor": "Rahmat Hidayat",
+      "lokasi": "Jl. Stasiun Senen - Jakarta Pusat",
+      "kejadian": "Arus lalu lintas dialihkan karena demo",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:40"
+    },
+    {
+      "id": 6,
+      "pelapor": "Lina Marlina",
+      "lokasi": "Jl. Gatot Subroto depan MPR/DPR - Jakarta Pusat",
+      "kejadian": "Massa semakin padat di depan gedung DPR",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:00"
+    },
+    {
+      "id": 7,
+      "pelapor": "Yusuf Adi",
+      "lokasi": "Flyover Slipi - Jakarta Barat",
+      "kejadian": "Kendaraan dialihkan menuju jalur alternatif",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 09:10"
+    },
+    {
+      "id": 8,
+      "pelapor": "Rina Suryani",
+      "lokasi": "Stasiun Gambir - Jakarta Pusat",
+      "kejadian": "Penumpang kereta kesulitan akses keluar stasiun",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:20"
+    },
+    {
+      "id": 9,
+      "pelapor": "Anton Wijaya",
+      "lokasi": "Monas Selatan - Jakarta Pusat",
+      "kejadian": "Kerumunan massa mulai berkumpul di area Monas",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:30"
+    },
+    {
+      "id": 10,
+      "pelapor": "Mega Larasati",
+      "lokasi": "Blok M - Jl. Iskandarsyah - Jakarta Selatan",
+      "kejadian": "Mahasiswa mulai bergerak dari Blok M",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 09:40"
+    },
+    {
+      "id": 11,
+      "pelapor": "Fajar Nugroho",
+      "lokasi": "Harmoni - Jakarta Pusat",
+      "kejadian": "Kepadatan kendaraan semakin meningkat",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:50"
+    },
+    {
+      "id": 12,
+      "pelapor": "Sri Wahyuni",
+      "lokasi": "Rawamangun - Jakarta Timur",
+      "kejadian": "Massa bergerak dari arah timur kota",
+      "wilayah": "Jakarta Timur",
+      "waktu": "2025-09-16 10:00"
+    },
+    {
+      "id": 13,
+      "pelapor": "Hendra Kurniawan",
+      "lokasi": "Pancoran - Jakarta Selatan",
+      "kejadian": "Konvoi mahasiswa menyebabkan kemacetan panjang",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 10:10"
+    },
+    {
+      "id": 14,
+      "pelapor": "Tati Rosdiana",
+      "lokasi": "Senayan City - Jakarta Pusat",
+      "kejadian": "Massa menumpuk di depan mall Senayan City",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 10:20"
+    },
+    {
+      "id": 15,
+      "pelapor": "Dedi Supriyanto",
+      "lokasi": "Kota Tua - Jakarta Barat",
+      "kejadian": "Aktivitas warga masih ramai dan lancar",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 10:30"
+    },
+    {
+      "id": 16,
+      "pelapor": "Yuliana",
+      "lokasi": "Kalibata - Jakarta Selatan",
+      "kejadian": "Rombongan mahasiswa bergerak ke arah DPR",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 10:40"
+    },
+    {
+      "id": 17,
+      "pelapor": "Andreas Simanjuntak",
+      "lokasi": "Senen - Jakarta Pusat",
+      "kejadian": "Antrean panjang kendaraan akibat demo",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 10:50"
+    },
+    {
+      "id": 18,
+      "pelapor": "Nia Anggraini",
+      "lokasi": "Palmerah - Jakarta Barat",
+      "kejadian": "Massa semakin banyak di sekitar Palmerah",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 11:00"
+    },
+    {
+      "id": 19,
+      "pelapor": "Rudi Hartono",
+      "lokasi": "Slipi Jaya - Jakarta Barat",
+      "kejadian": "Akses jalan ditutup sementara",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 11:10"
+    },
+    {
+      "id": 20,
+      "pelapor": "Maya Fitriani",
+      "lokasi": "Pejompongan - Jakarta Pusat",
+      "kejadian": "Massa mulai memblokir jalan utama",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 11:20"
+    },
+    {
+      "id": 21,
+      "pelapor": "Joko Priyono",
+      "lokasi": "Tugu Tani - Jakarta Pusat",
+      "kejadian": "Rombongan massa bergerak menuju Monas",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 11:30"
+    },
+    {
+      "id": 22,
+      "pelapor": "Sulastri",
+      "lokasi": "Ragunan - Jakarta Selatan",
+      "kejadian": "Mahasiswa bergerak menggunakan bus",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 11:40"
+    },
+    {
+      "id": 23,
+      "pelapor": "Agus Riyanto",
+      "lokasi": "Cililitan - Jakarta Timur",
+      "kejadian": "Kemacetan panjang di jalan raya",
+      "wilayah": "Jakarta Timur",
+      "waktu": "2025-09-16 11:50"
+    },
+    {
+      "id": 24,
+      "pelapor": "Ratna Sari",
+      "lokasi": "Kampus Trisakti - Jakarta Barat",
+      "kejadian": "Mahasiswa kampus bergabung aksi",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 12:00"
+    },
+    {
+      "id": 25,
+      "pelapor": "Ilham Saputra",
+      "lokasi": "Jl. Kyai Tapa depan Kampus Trisakti - Jakarta Barat",
+      "kejadian": "Massa memenuhi area depan kampus",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 12:10"
+    }
+  ],
+
+    "patroli_polisi": [
+    {
+      "id": 1,
+      "petugas": "Bripka Joko Santoso",
+      "lokasi": "Jl. Merdeka Barat depan Gedung DPR - Jakarta Pusat",
+      "status": "Massa mahasiswa mulai berkumpul, situasi kondusif",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:00"
+    },
+    {
+      "id": 2,
+      "petugas": "Aiptu Rina Marlina",
+      "lokasi": "Jl. Diponegoro depan RS Cipto Mangunkusumo - Jakarta Pusat",
+      "status": "Orasi mahasiswa berlangsung dengan pengeras suara",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:10"
+    },
+    {
+      "id": 3,
+      "petugas": "Ipda Ahmad Fauzi",
+      "lokasi": "Jl. Sudirman depan Plaza Semanggi - Jakarta Selatan",
+      "status": "Lalu lintas macet akibat konsentrasi massa",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 08:20"
+    },
+    {
+      "id": 4,
+      "petugas": "Briptu Lestari Dewi",
+      "lokasi": "Jl. MH Thamrin Bundaran HI - Jakarta Pusat",
+      "status": "Massa longmarch dengan tertib",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:30"
+    },
+    {
+      "id": 5,
+      "petugas": "Aipda Sugeng Widodo",
+      "lokasi": "Jl. Stasiun Senen - Jakarta Pusat",
+      "status": "Pengalihan arus lalu lintas berjalan lancar",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 08:40"
+    },
+    {
+      "id": 6,
+      "petugas": "Ipda Bayu Prakoso",
+      "lokasi": "Jl. Gatot Subroto depan MPR/DPR - Jakarta Pusat",
+      "status": "Massa bertambah banyak, situasi terkendali",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:00"
+    },
+    {
+      "id": 7,
+      "petugas": "Bripka Wulan Anggraini",
+      "lokasi": "Flyover Slipi - Jakarta Barat",
+      "status": "Kendaraan dialihkan, lalu lintas padat",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 09:10"
+    },
+    {
+      "id": 8,
+      "petugas": "Aipda Hendra Saputra",
+      "lokasi": "Stasiun Gambir - Jakarta Pusat",
+      "status": "Situasi ramai, penumpang menumpuk di pintu keluar",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:20"
+    },
+    {
+      "id": 9,
+      "petugas": "Briptu Nanda Pratama",
+      "lokasi": "Monas Selatan - Jakarta Pusat",
+      "status": "Massa mulai bergabung di area Monas",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:30"
+    },
+    {
+      "id": 10,
+      "petugas": "Aiptu Kartika Dewi",
+      "lokasi": "Blok M - Jakarta Selatan",
+      "status": "Mahasiswa bersiap menuju titik aksi",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 09:40"
+    },
+    {
+      "id": 11,
+      "petugas": "Ipda Agus Wirawan",
+      "lokasi": "Harmoni - Jakarta Pusat",
+      "status": "Kendaraan menumpuk di simpang Harmoni",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 09:50"
+    },
+    {
+      "id": 12,
+      "petugas": "Bripka Rani Oktaviani",
+      "lokasi": "Rawamangun - Jakarta Timur",
+      "status": "Massa bergerak dari arah timur",
+      "wilayah": "Jakarta Timur",
+      "waktu": "2025-09-16 10:00"
+    },
+    {
+      "id": 13,
+      "petugas": "Aipda Fajar Ramadhan",
+      "lokasi": "Pancoran - Jakarta Selatan",
+      "status": "Konvoi mahasiswa menyebabkan kepadatan",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 10:10"
+    },
+    {
+      "id": 14,
+      "petugas": "Briptu Citra Lestari",
+      "lokasi": "Senayan City - Jakarta Pusat",
+      "status": "Konsentrasi massa meningkat di depan mall",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 10:20"
+    },
+    {
+      "id": 15,
+      "petugas": "Ipda Dimas Aditya",
+      "lokasi": "Kota Tua - Jakarta Barat",
+      "status": "Situasi aman dan ramai lancar",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 10:30"
+    },
+    {
+      "id": 16,
+      "petugas": "Bripka Surya Nugraha",
+      "lokasi": "Kalibata - Jakarta Selatan",
+      "status": "Massa mulai bergerak menuju DPR",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 10:40"
+    },
+    {
+      "id": 17,
+      "petugas": "Aipda Melati Puspita",
+      "lokasi": "Senen - Jakarta Pusat",
+      "status": "Antrean panjang kendaraan, situasi terkendali",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 10:50"
+    },
+    {
+      "id": 18,
+      "petugas": "Briptu Rangga Saputra",
+      "lokasi": "Palmerah - Jakarta Barat",
+      "status": "Kepadatan meningkat, massa semakin banyak",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 11:00"
+    },
+    {
+      "id": 19,
+      "petugas": "Ipda Fitri Handayani",
+      "lokasi": "Slipi Jaya - Jakarta Barat",
+      "status": "Akses jalan ditutup sementara",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 11:10"
+    },
+    {
+      "id": 20,
+      "petugas": "Bripka Anton Haryono",
+      "lokasi": "Pejompongan - Jakarta Pusat",
+      "status": "Massa memblokir jalan, polisi melakukan negosiasi",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 11:20"
+    },
+    {
+      "id": 21,
+      "petugas": "Aiptu Wahyu Kurniawan",
+      "lokasi": "Tugu Tani - Jakarta Pusat",
+      "status": "Massa bergerak ke arah Monas",
+      "wilayah": "Jakarta Pusat",
+      "waktu": "2025-09-16 11:30"
+    },
+    {
+      "id": 22,
+      "petugas": "Briptu Andriansyah",
+      "lokasi": "Ragunan - Jakarta Selatan",
+      "status": "Mahasiswa bergerak menggunakan bus",
+      "wilayah": "Jakarta Selatan",
+      "waktu": "2025-09-16 11:40"
+    },
+    {
+      "id": 23,
+      "petugas": "Ipda Rudi Setiawan",
+      "lokasi": "Cililitan - Jakarta Timur",
+      "status": "Kendaraan tersendat, polisi atur arus lalu lintas",
+      "wilayah": "Jakarta Timur",
+      "waktu": "2025-09-16 11:50"
+    },
+    {
+      "id": 24,
+      "petugas": "Bripka Dian Permata",
+      "lokasi": "Kampus Trisakti - Jakarta Barat",
+      "status": "Massa kampus bergabung aksi dengan tertib",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 12:00"
+    },
+    {
+      "id": 25,
+      "petugas": "Aiptu Suryo Widodo",
+      "lokasi": "Jl. Kyai Tapa depan Kampus Trisakti - Jakarta Barat",
+      "status": "Situasi ramai, polisi siaga di lokasi",
+      "wilayah": "Jakarta Barat",
+      "waktu": "2025-09-16 12:10"
+    }
+  ]
+}
